@@ -29,6 +29,9 @@
 
 ## Special Thanks
 [김편집](https://www.twitch.tv/arpa__)
+
 [레밀레기](https://www.twitch.tv/remilegi)
+
 [PyTube](https://github.com/pytube/pytube)
-그리고 이 프로그램을 보시는 여러분
+
+그리고 여러분
