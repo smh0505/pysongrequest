@@ -2,7 +2,7 @@
 (대충 김편집 트위치에 상주하는 트수들을 위한 파이에스알 클래식 버전)
 
 ## 사용방법
-1. 다음 링크로 들어가서 PySongRequest.exe 파일을 다운로드.
+1. [여기](https://github.com/smh0505/pysongrequest/releases/tag/1.0)로 들어가서 PySongRequest.exe 파일을 다운로드.
 2. 유튜브 URL 칸에 자신이 SR로 넣고 싶은 유튜브 동영상의 URL를 입력.
 ![image](https://user-images.githubusercontent.com/42821865/120219098-b0670300-c208-11eb-8fd4-24661d60b60e.png)
 
