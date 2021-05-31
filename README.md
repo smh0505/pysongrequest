@@ -6,9 +6,7 @@
 2. 유튜브 URL 칸에 자신이 SR로 넣고 싶은 유튜브 동영상의 URL를 입력.
 ![image](https://user-images.githubusercontent.com/42821865/120219098-b0670300-c208-11eb-8fd4-24661d60b60e.png)
 
-여기서 영상을 우클릭 하거나 공유 버튼을 클릭하면 URL을 복사할 수 있습니다.
-
-(예시: [자비란](https://www.youtube.com/channel/UCM5TAPH7AD7F2iSr-iXIgtQ)님 영상)
+여기서 영상을 우클릭 하거나 공유 버튼을 클릭하면 URL을 복사할 수 있습니다. (예시: [자비란](https://www.youtube.com/channel/UCM5TAPH7AD7F2iSr-iXIgtQ)님 영상)
 
 3. 시작 시간과 종료 시간을 초단위로 설정.
 4. 아래에 뜨는 커맨드를 복사하여 채팅창에 붙여넣고 엔터키를 눌러주시면 됩니다.
